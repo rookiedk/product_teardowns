@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/napkin-product-opportunity.html" }
+  ]
+}
